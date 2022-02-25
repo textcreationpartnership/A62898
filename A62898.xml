@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A position concerning persecution That religion that persecutes a righteous people for their conscience towards God, is not worthy to be joyned to, but to be had in abomination by all sober people, as a religion abhorred of God, and of all that truly know him. This is manifest by that which follows.</title>
+            <author>Tomlinson, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62898</idno>
+            <idno type="STC">Wing T1849</idno>
+            <idno type="STC">ESTC R219740</idno>
+            <idno type="EEBO-CITATION">99831188</idno>
+            <idno type="PROQUEST">99831188</idno>
+            <idno type="VID">35651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2115:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A position concerning persecution That religion that persecutes a righteous people for their conscience towards God, is not worthy to be joyned to, but to be had in abomination by all sober people, as a religion abhorred of God, and of all that truly know him. This is manifest by that which follows.</title>
+                  <author>Tomlinson, William.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.T., i.e. William Tomlinson.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35651:1" rendition="simple:additions"/>
+            <head>A POSITION CONCERNING PERSECUTION.</head>
+            <head type="sub">That Religion that <hi>perſecutes</hi> a Righteous People for their Conſcience towards God, is not worthy to be joyned to, but to be had in Abomination by all ſober People, as a Religion abhorred of God, and of all that truly know him.</head>
+            <p>This is manifeſt by that which follows.</p>
+            <p n="1">1. FIrſt, Its Pedigree or Race is thereby made manifeſt to be of the Evil one, and of affinity with <hi>Cain,</hi> and the perſecuting Phariſees. <hi>Cain</hi> was the firſt of that Race that ſlew his Brother about Religion: and <hi>wherefore ſlew he him?</hi> even <hi>becauſe his own works were evil, and his Brothers righteous,</hi> ſaith the Scripture, 1 <hi>Joh.</hi> 3.12. And even ſo it is now; The perſecuting ſpirit ſeeks to ſlay a People more righteous than it ſelf. So it hath been, ſo it is, and ſo it will be, as long as that ſpirit is per<g ref="char:EOLhyphen"/>mitted to act its part: and when it hath done, it muſt be turned out with its firſt father <hi>Cain,</hi> and be a vagabond from the Lord, and from the off-ſpring of his People. Therefore conſider and fear, all ye that are tainted there<g ref="char:EOLhyphen"/>with.</p>
+            <pb facs="tcp:35651:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:35651:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:35651:3"/>
+            <p>The Phariſees, they gave place in themſelves to the ſame ſpirit, under a pretence of Zeal and Holineſs, as if by perſecuting they would root out abominable Doctrines and Hereſies contrary to Godlineſs, and contrary to eſtabliſhed Traditions, delivered them of God, and his holy Prophets: But they perceived not in themſelves that rotten root of enmity from whence this ſpirit ſprang, and was influenced and ſtirred up: And therefore inſtead of rooting out what they would have rooted out, they rooted out themſelves, out of the Inheritance of God, and cut off their Names from being the Diſciples of Chriſt. And as it was with them, ſo will it be with all that follow them, in the ſame ſpirit of Perſecution: And a ſhort time will hence<g ref="char:EOLhyphen"/>forth manifeſt it. The Phariſees thought to preſerve themſelves by root<g ref="char:EOLhyphen"/>ing out and ſuppreſſing others, but the Wiſdom of God turned it quite otherwiſe. They ſaid, If we let them alone, all men will believe on this man, and joyn to him, and the <hi>Romans</hi> will come and take away our place and Nation: therefore they thought <hi>Perſecution</hi> was the way to prevent that. But mark the Counſel and Wiſdom of God: That way which they took to prevent their ruine and ſcattering, even that thing provoked the Lord to ſend the <hi>Romans</hi> to take away their place and Nation. And ſo that which they feared came upon them, becauſe they would not ſuffer the in<g ref="char:EOLhyphen"/>nocent Seed, nor imbrace it as the off-ſpring of God. And theſe things were written for examples to them that come after them; that they may be wiſe by others falls; and may learn to kiſs the Son, and his little ones, leſt he be angry, and they periſh out of the way, when his wrath is but a little kindled, <hi>Pſal. 2.</hi>
+            </p>
+            <p n="2">2. Conſider that this Spirit that perſecutes, be it in whom it will, it's but of the fleſh, not of the Spirit of the Lord: for ſo the Scripture witneſ<g ref="char:EOLhyphen"/>ſeth, <hi>Gal.</hi> 4.29. <hi>But as it was then, he that was born after the fleſh perſecuted him that was born after the Spirit, even ſo it is now. But,</hi> (mark the event!) <hi>What ſaith the Scripture?</hi> (that whereof one tittle ſhall not fail till all be fulfilled) <hi>Caſt out the Bond-woman and her ſon,</hi> (that is, he that is born after the fleſh and perſecutes) <hi>for the ſon of the Bond-woman ſhall not be heir with the ſon of the Free-woman.</hi> Mark! The portion of this Spirit that per<g ref="char:EOLhyphen"/>ſecutes is to be caſt out; it ſhall not be Heir with Chriſt in his King<g ref="char:EOLhyphen"/>dom.</p>
+            <p n="3">3. Again, The Root of this Perſecuting ſpirit is in that evil one which is called <hi>Apollyon,</hi> not in the ſaving Spirit which hath its name <hi>JESUS. Apollyon,</hi> is Deſtroyer, (<hi>Rev.</hi> 9.11.) the Spirit hath given that name to that nature; as he hath given the name <hi>Saviour</hi> or <hi>Jeſus</hi> to the contrary nature. <hi>Thou ſhalt call his name JESUS, for he ſhall ſave, &amp;c.</hi> And ſaith he, <hi>The Son of man is not come to deſtroy mens lives, but to ſave.</hi> Therefore the De<g ref="char:EOLhyphen"/>ſtroyer can find no place in him, he hath no root nor foundation there; but
+<pb n="3" facs="tcp:35651:3"/>the Perſecutors Root, from whence he ſprings, is in <hi>Apollyon,</hi> that ſpirit that is contrary to <hi>Jeſus,</hi> and ſhall go into Perdition.</p>
+            <p n="4">4. The Perſecutors of the Innocent for Conſcience-ſake, have not the knowledge of God and of Chriſt. <hi>Joh.</hi> 16.3. <hi>Theſe things will they do unto you, becauſe they know not the Father nor me.</hi> The reaſon why men perſe<g ref="char:EOLhyphen"/>cute, is, becauſe they are ignorant of God. And their Perſecution of others, is a manifeſt demonſtration of their ignorance of God. He that knows all mens hearts, and comprehends all their knowledge, hath ſpoken it. A prate or talk of God and his Attributes, he accounts not the knowledge of God: for ſo, many Perſecutors can talk largely enough. But he that knows the Father and the Son, is by that knowledge (according to the meaſure of it) ſunk into the Nature of him known; and his Image renewing there<g ref="char:EOLhyphen"/>by, will appear in that perſon that knows him. For the knowledge of God is not a dead fruitleſs knowledge; but it's <hi>Life eternal,</hi> and raiſes up life in man, that he begins to live in the Image of God, whom now he begins to ſee and know. As he ſees God, who is Light, ſo he begins to walk in the Light, and becomes a Child of Light, not of darkneſs: As he ſees God, who is Love, and feels him ſo; ſo he receives the Image of his Na<g ref="char:EOLhyphen"/>ture by Impreſſion upon his ſpirit, from that Spirit of God that gives the knowledge of God; and ſo he begins to live in that Nature alſo: and now be<g ref="char:EOLhyphen"/>ing come to the feeling of the true Love, and beginning to ſpring up in that (which indeed is the true knowledge of God who is Love) he will now do no harm to his Neighbour: Perſecution now ceaſeth in him, being ſlain from the right ground, even from his knowing &amp; feeling what God is: But while this perſecuting ſpirit remains in any unſlain and unſubdued, its an evident token that they are not yet come to the true Knowledge of God, and of Chriſt, how highly ſoever they account of themſelves, or are accounted of by others, for Chriſtianity; he that denies this, muſt oppoſe the Words of the Son of God, who came to ſet Truth in the Earth: and wo will be to him that is found in the gainſaying of the Truth that he witneſſed from the Father. So then, all Perſecutors being deſtitute of the Knowledge of the Father and the Son, what Religion can they ſet up, out a perſecuting Reli<g ref="char:EOLhyphen"/>gion, which hath not the Knowledge of God and of Chriſt in it?</p>
+            <p>Therefore let all that joyn themſelves to Perſecutors, conſider to whom they joyn themſelves; It's not to God, but to his enemies, that know Him not, nor his Children, though they think they do God ſervice in perſecu<g ref="char:EOLhyphen"/>ting.</p>
+            <p n="5">5. Again, Perſecutors do not ſtand in wholſome counſel, as among men. <hi>Gamaliel</hi> will riſe up in Judgement againſt them; He was a wiſe Counſel<g ref="char:EOLhyphen"/>lor; and he gave this counſel in his time; <hi>Let theſe men alone: if their way be of men, it will come to nought; But if it be of God, ye cannot overthrow it;</hi> and
+<pb n="4" facs="tcp:35651:4"/>beſides this, <hi>leſt perhaps ye be found fighters againſt God.</hi> Mark! here's a fruitleſs work, and a dangerous work: fruitleſs in that they cannot over<g ref="char:EOLhyphen"/>throw it: and dangerous in that they run a hazzard of fighting againſt God, while they ſeek to overthrow. So much <hi>Gamaliel</hi> could warn them of. But mark what was ſaid to <hi>Saul,</hi> and you will ſee further, that <hi>Perſe<g ref="char:EOLhyphen"/>cution</hi> of the <hi>Innocent</hi> is beyond all <hi>Perhaps,</hi> and is poſſitively a fighting againſt God, and no leſs than the perſecuting of Chriſt himſelf; <hi>Saul, Saul, why perſecuteſt thou me?</hi> You ſee <hi>Saul</hi> was fighting againſt God, and wiſt it not. Therefore be warned, all ye that perſecute the <hi>Innocent</hi> for their Conſcience toward God.</p>
+            <p n="6">6. <hi>Perſecutors</hi> and <hi>Rooters out</hi> even of the <hi>Tares,</hi> ſtand in direct oppo<g ref="char:EOLhyphen"/>ſition and defiance to the Command of Chriſt; for he hath ſaid, <hi>Let alone.</hi> This very Queſtion of <hi>Rooting out,</hi> is plainly and punctually propounded, and reſolved by him under the Parable of the Tares, <hi>Mat.</hi> 13.28, 29. <hi>Shall we gather out the Tares,</hi> ſay the Servants? <hi>No,</hi> ſaith Chriſt, <hi>Let alone:</hi> And he hath given the Reaſon alſo, ſufficient to ſatisfie any rational man; <hi>Leſt ye pluck up therewith Wheat:</hi> Rather than any Wheat be pluckt up, he will have the Tares to grow with it, until the Harveſt. And he hath told us, whoſe office that ſhall be to gather out the Tares, and when, <hi>verſ.</hi> 40, 41. What can be more punctual?</p>
+            <p>Therefore none can attempt that work without open preſumption and defiance to his Command: The Son of Man, who is the ſower of the good Seed, knew that the Tares could not be gathered out without danger to the good Seed; therefore he hath not permitted it to be done, for the good Seeds ſake. Now this is the beſt pretence that Perſecutors can have for them<g ref="char:EOLhyphen"/>ſelves, namely, To purge the Church from the Tares that would infeſt the Wheat: But Chriſt himſelf hath ſtript them of this ſhelter; and hath put a bar to this work, for the good Seeds ſake: and indeed it is the good Seed commonly that Perſecutors fall upon: Tares are but a pretence, and that a rotten one too, ſeeing Chriſt hath forbidden that. Now, if they fall upon that which the Son of Man, the Seeds-man, hath ſuch care of, conſider how acceptable will this be to Him that hath ſo expreſſed his care of the Wheat: will not his Anger be kindled? Yes ſurely; for if his Anger may be ex<g ref="char:EOLhyphen"/>pected for not kiſſing the Son, <hi>Pſal.</hi> 2. much more for going about to kill the Son, and to deſtroy Him.</p>
+            <p>The former Powers were told the danger of theſe things, but they not regarding, but falling upon this Stone, have daſhed themſelves to pieces: and ſo muſt all that follow the ſame ſteps; for the Scriptures ſhall be fulfil<g ref="char:EOLhyphen"/>led.</p>
+            <p n="7">7. <hi>He that hates his Brother, is a Murtherer; and no Murtherer hath eter<g ref="char:EOLhyphen"/>nal Life abiding in him,</hi> 1 John 3.15. Here is the heighth of wickedneſs,
+<pb n="5" facs="tcp:35651:4"/>that which God will not ſuffer to go unrevenged, namely, <hi>Murther:</hi> He that hates his Brother ſtands in it; he ſtands a Murtherer before the Lord; and is ſo pronounced here by his Servant: for the root of Murther is alive in him in hating his Brother. If the Perſecutor of the Righteous ſay, he loves his Brother whom he perſecutes, he is alſo a Lyar as well as a Murther<g ref="char:EOLhyphen"/>er; For, <hi>Love doth no ill to his Neighbour,</hi> but teaches to <hi>do to him, as we would it ſhould be done to us.</hi> And therefore our Lord and Maſter, Chriſt Jeſus, the innocent Lamb of God, and our Leader, charged home theſe two things upon the Phariſees, his Perſecutors, who ſought his deſtruction, and told them, <hi>Ye are of your Father the Devil, and the luſts of your Father ye are willing to do: He was a Murtherer from the beginning, and ſtood not in the Truth, becauſe there is no truth in him: When he ſpeaketh a lye, he ſpeaketh of his own; for he is a Lyar, and the Father thereof.</hi>
+            </p>
+            <p>Conſider therefore all ye that perſecute the <hi>Innocent,</hi> and would cover it with a lye, as the Phariſees would have done, who went before you in that nature; I ſay, let it enter into your hearts, to take notice how you ſtand be<g ref="char:EOLhyphen"/>fore the Lord, that you are already pronounced Murtherers in hating your Brother; and fear the powerful hand of the Lord, and repent of the thoughts of your hearts againſt the <hi>Innocent; For he that toucheth an innocent perſon, toucheth the Apple of God's Eye:</hi> Let your hatred be turned into Love, and im<g ref="char:EOLhyphen"/>brace the Son in his Servants that fear Him, leſt his Anger be kindled againſt you, and ye periſh out of his way, as others have done.</p>
+            <p n="8">8. This is the great Character of the great Whore, namely to deſtroy and drink the <hi>Blood</hi> of the Servants of the Lord: <hi>In her is found Blood,</hi> &amp;c. And therefore the nearer that any come to this, the more they partake with the great Whore in her Sins; and the more they ſhall partake with her in her Plagues.</p>
+            <p n="9">9. <hi>Perſecutors</hi> of the <hi>Innocent</hi> for Conſcience ſake, are uſurpers of God's Throne and Prerogative; for God requireth that the Conſcience be ſub<g ref="char:EOLhyphen"/>jected unto Him; and he hath not given that Prerogative to any man or men upon Earth, to have the Conſciences of men ſubjected to them ſing<g ref="char:EOLhyphen"/>ly, but only wherein his Authority binds them: and in matter of Worſhip, it's plain that his Authority hath ſet free all men from the Traditions of men. In vain therefore is that worſhip that hath no better a foundation than man's commanding of it. <hi>In vain,</hi> ſaith Chriſt (uſing the words of the Prophet) <hi>do ye worſhip me, teaching for Doctrines the Precepts of men.</hi>
+            </p>
+            <p>Therefore in this point our Liberty by Chriſt is proclaimed, and we ought to ſtand faſt in it: and he that requires the contrary, ſtands oppoſite to Chriſt and his Work; forceth men to that which Chriſt hath proclaimed to be vain worſhip; and alſo is an uſurper of God's Prerogative, in ſeeking to have the Conſciences of men ſubjected unto him: And let all ſuch uſurpers
+<pb n="6" facs="tcp:35651:5"/>of God's Throne and Prerogative, conſider, that God will not give his Glo<g ref="char:EOLhyphen"/>ry to another; but he will aſſuredly throw them out of his Throne, as a ſtone out of a ſling; and He will redeem the Conſciences of his People out of the hands of all ſuch; for theſe are redeeming times; and the time draws on that the holy Apoſtles of the Lamb long ago had an eye after groaning in themſelves, and waiting for the Adoption, to wit, the Redemption of our Body: And there is ſomething of this ſecretly ſtamped upon the hearts of men; even to look after better things, a better Kingdom, better times, though they put this far off from themſelves in the particular; for that no<g ref="char:EOLhyphen"/>ble ſpark of God in man, though it be imbondaged it ſelf in man, yet hath in it a groaning after liberty, yea, <hi>after the liberty of the Sons of God.</hi> There hath been a time, and that a long time, granted to the <hi>Man of Sin,</hi> the <hi>Son of Perdition,</hi> to ſit in the Temple of God, over the Throne of God, for the pu<g ref="char:EOLhyphen"/>niſhing of all them that love unrighteouſneſs; and ſtrong deluſions have been ſent upon them to enſlave their Conſciences (their moſt noble part) unto men, becauſe they loved not the Truth, but had pleaſure in unrighte<g ref="char:EOLhyphen"/>ouſneſs; and ſo Antichriſts kingdom is full of ſlaves: but that time is wearing out, and paſſing over; and God will turn his hand againſt that proud Spirit that durſt uſurp his Throne, and Prerogative over mens Con<g ref="char:EOLhyphen"/>ſciences, in impoſing the matters of his Worſhip upon them, without his command, after their own inventions and traditions, for the fulfilling of their own luſts, and earthly ends, and advantages. When the King of <hi>Aſ<g ref="char:EOLhyphen"/>ſyria</hi> had done God's ſcourging work upon Iſrael, then the Lord takes no<g ref="char:EOLhyphen"/>tice of the proud heart of the King of <hi>Aſſyria</hi> in that work, and calls him to an account for helping forward the affliction, though upon a people that had tranſgreſſed: how much more will he do it for a people that ſubject their Conſciences in his Worſhip and Service ſingly to him, and walk inoffenſive<g ref="char:EOLhyphen"/>ly and harmleſly among men in their generation?</p>
+            <p>The Apoſtles of Chriſt Jeſus, they durſt not challenge power over mens Faith and Conſcience, in impoſing upon them what the Spirit commanded not; which thing of right had belonged to them, if to any, the Conſcience and Faith being that which their work was exerciſed about. Therefore for them to look for it, whoſe work is to regulate the civil life of men, and to bear the Sword for Tranſgreſſors, to keep them in peace, that they may not deſtroy one another, nor the Righteous, this is an uſurpation which the Apo<g ref="char:EOLhyphen"/>ſtles durſt not challenge to themſelves.</p>
+            <p n="10">10. Again, <hi>Perſecution</hi> argues a want of Truth on that part that perſe<g ref="char:EOLhyphen"/>cutes: For wherefore do they fly to carnal weapons (ſuch as the Apoſtles never uſed to ſubdue errour with) and lay aſide ſpiritual Weapons, ſuch as the Apoſtles did uſe, and appointed to be uſed, for the ſtopping of the mouths of gainſayers? Is it not becauſe they diſtruſt their own weapons, or find
+<pb n="7" facs="tcp:35651:5"/>themſelves foiled, and not ſufficiently defended by them, and therefore fly to Clubs, and Stocks, and Priſons, and Fines, and Traps, and Snares, and ſuch like carnal weapons, for help? and ſo inſtead of laying their ſpiritual weapon to the Conſcience, they uſe carnal weapons againſt the body and life, and outward being of people, and diſturb and diſquiet their outward life.</p>
+            <p n="11">11. Therefore, laſtly, conſider the end of Perſecutors: They put the Innocent to trouble, therefore <hi>it is a righteous thing with God to render tribu<g ref="char:EOLhyphen"/>lation to them again.</hi> God is pleaſed, now and then to give manifeſt ex<g ref="char:EOLhyphen"/>amples of his Juſtice upon perſons that wrong and harm others; to let the Earth ſee, that there is a Revenger of Wrongs, that takes notice: and this he doth often for one wicked man againſt another: how much more then will he avenge the Cauſe of the Innocent, whom the World hath no<g ref="char:EOLhyphen"/>thing againſt (becauſe their lives are honeſt and unblameable) but onely create Accuſations and Traps againſt them in the matters of their God? as <hi>Nebuchadnezzars</hi> Princes and Counſellors did againſt <hi>Daniel.</hi> I tell you he will avenge them ſpeedily, ſaith Chriſt Jeſus. Shall they ſubject their Conſciences to God alone, to be guided and directed by him, and ſhall they be enſnared and trapped by men for ſo doing, and will not God avenge them? Yes ſurely, Their Judgment ſlumbers not, who ſhall ſo abuſe the Heritage of God, and uſurp his Throne, to ſit upon the Conſciences of his Servants. For conſider, if it ſhall be imputed as ſo great a crime againſt men, <hi>I was naked, and ye cloathed me not; I was hungry, and ye fed me not; a ſtranger, and ye took me not in; ſick, and in Priſon, and ye viſited me not:</hi> If that will be accounted ſo great a crime; what will be ſaid then to them that rob them of their Apparrel, meat, drink, health, liberty? of whom it may be ſaid, I had meat for my ſelf and Family, but you took it out of their mouthes; I had apparrel, but you robbed me of it; I had a habitation, but you caſt me out of it; I had health and liberty, but you caſt me into Pri<g ref="char:EOLhyphen"/>ſons and holes, and robbed me of both: <hi>for in as much as ye did it to one of the leaſt of theſe my Brethren, ye did it unto me.</hi> If the other ſhall be taken notice of that did not help in time of need, what ſhall be ſaid to theſe who did ſuch injuries and wrongs to the leaſt of the Servants of the Lord! It is worthy of your moſt ſerious thoughts to ponder it, all ye that would be rooting out, who have not minded the Premonition of our Lord Jeſus Chriſt to the contrary.</p>
+            <p>Theſe things are written in love to the Righteous, who ſuffer Perſecuti<g ref="char:EOLhyphen"/>on; and in love to the Unrighteous who do perſecute, that (if the Lord pleaſe to give you an ear) you may be kept from that great and deſolating wickedneſs, which often immediately foreruns a Peoples deſtruction. It
+<pb n="8" facs="tcp:35651:6" rendition="simple:additions"/>was the topping up of <hi>Iſraels</hi> ſins when they were led captive into <hi>Babylon.</hi> It was the topping up of the ſins of the <hi>Jews</hi> alſo, when their Nation was left unto them deſolate, after the dayes of Chriſt. It almoſt ruined the <hi>Papiſts</hi> in <hi>England,</hi> even their Perſecution in the dayes of Queen <hi>Mary.</hi> And whether it was not the ground of the late long Wars in <hi>England</hi> let wiſe men conſider: As alſo, whether it was not the deſolating of that Peo<g ref="char:EOLhyphen"/>ple that had been made ſucceſsful in the Wars, by the immediate hand and ſtrength of God, beyond their own prudence and viſible power many times, as moſt parties have acknowledged. And now, if it be kept on foot ſtill, whether it may not preſage Ruine and Deſolation to them that continue therein?</p>
+            <p>And it is to be minded by all, That No Law of man, or other pretence, will excuſe any man in this matter. <hi>He that partakes in</hi> Babylons <hi>ſins,</hi> (whereof this is none of the leaſt) <hi>may expect to partake of</hi> Babylons <hi>plagues.</hi> And all are guilty, as partakers, from the moſt violent actor in Perſecution, to him that ſtands by and conſents thereto in his heart. <hi>Paul</hi> charged that againſt himſelf, that he ſtood by and conſented to the death of <hi>Stephen.</hi> To be angry with our Brother without a cauſe, Chriſt brings within the Law of Murder; how much more to perſecute him without a cauſe will make one guilty?</p>
+            <p>Let theſe things be weighed in all you that have any regard of God or man in your hearts, and let all bitterneſs and wrath and hatred be repented of, and be caſt out; and let the Love of God ariſe in your hearts towards one another, to preſerve the outward life of one another, as God doth yours, leſt the meaſure ye mete to others be meaſured to you again.</p>
+            <closer>
+               <signed>W. T.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:35651:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
